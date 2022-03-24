@@ -1,4 +1,6 @@
 # Hi 
+![Fxc7](https://cardivo.vercel.app/api?name=DioAzhrii&description=Hi,%20i%27m%20Dio%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://fxc7-api.herokuapp.com/upload/farhan.png&backgroundColor=%23ecf0f1&instagram=azhriixty378&github=dio-azhrii&site=https://dio-azhrii.github.io/dioX/&iconColor=%23595959&fontColor=%23595959&pattern=ticTacToe&colorPattern=%23eaeaea&opacity=1)
+___
 ![logo3](https://user-images.githubusercontent.com/102281729/159858691-da6917f2-51ca-466a-9aca-f34010cd79d5.jpeg)
 
 </p>
