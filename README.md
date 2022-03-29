@@ -6,7 +6,7 @@ ___
 ___
 </p>
 <p align="center">
-<a href="https://github.com/dio-azhrii"><img title="Author" src="https://img.shields.io/badge/Author-DioAzhrii-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/dio-azhrii"><img title="Author" src="https://img.shields.io/badge/Creator-DioAzhrii-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 </p>
 <p align="center">
