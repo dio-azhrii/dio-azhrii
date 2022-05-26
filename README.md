@@ -1,6 +1,6 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-![Fxc7](https://cardivo.vercel.app/api?name=DioAzhrii&description=Hi,%20i%27m%20Dio%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://g.top4top.io/p_22749hv0q5.jpg&backgroundColor=%23ecf0f1&instagram=azhriixty378&github=dio-azhrii&site=http://diox.rf.gd/&iconColor=%23595959&fontColor=%23595959&pattern=ticTacToe&colorPattern=%23eaeaea&opacity=1)
+![DioX](https://cardivo.vercel.app/api?name=DioAzhrii&description=Hi,%20i%27m%20Dio%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://g.top4top.io/p_22749hv0q5.jpg&backgroundColor=%23ecf0f1&instagram=azhriixty378&github=dio-azhrii&site=http://diox.rf.gd/&iconColor=%23595959&fontColor=%23595959&pattern=ticTacToe&colorPattern=%23eaeaea&opacity=1)
 ___
 ![IMG-20220419-WA0084](https://user-images.githubusercontent.com/102281729/164033464-7429c430-5626-4d65-8c9b-3a09f35804c4.jpg)
 
