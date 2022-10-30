@@ -5,9 +5,10 @@
 
 
 ___
+![null-20221030-WA0171](https://user-images.githubusercontent.com/102281729/198884088-b7acb405-a989-476b-9757-c525ecd9a1dc.jpg)
+___
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-___
 <p align="center">
 <a href="https://github.com/dio-azhrii"><img title="Author" src="https://img.shields.io/badge/Creator-DioAzhrii-red.svg?style=for-the-badge&logo=github"></a>
 </p>
