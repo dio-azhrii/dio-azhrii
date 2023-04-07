@@ -1,9 +1,8 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Wellcome My Github!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
  
-<a href="http://diox.rf.gd"><img align="center" src="https://github-cardname.caliph.my.id/api?name=DioX&description=Hi,%20i%27m%20Dio%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://g.top4top.io/p_22749hv0q5.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@azhriixty&github=dio-azhrii&pattern=ticTacToe&colorPattern=%23eaeaea&site=diox.rf.gd"/></a>
 
-<a href="https://diox.biz.id"><img align="center" src="https://github-cardname.caliph.my.id/api?name=DioX&description=Hi%2C%20i'm%20a%20Backend%20Developer%2C%20Nice%20to%20meet%20you&image=https://user-images.githubusercontent.com/102281729/198884088-b7acb405-a989-476b-9757-c525ecd9a1dc.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@azhriixty&github=dio-azhrii&pattern=ticTacToe&colorPattern=%23eaeaea&site=https://diox.biz.id"/></a>
+<a href="https://diox.biz.id"><img align="center" src="https://github-cardname.caliph.my.id/api?name=DioX&description=Hi%2C%20i'm%20a%20Backend%20Developer%2C%20Nice%20to%20meet%20you&image=https://user-images.githubusercontent.com/102281729/230587561-4d735ca0-1efe-4c83-bafd-e59355d06087.jpeg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@azhriixty&github=dio-azhrii&pattern=ticTacToe&colorPattern=%23eaeaea&site=https://diox.biz.id"/></a>
 ___
 ![null-20221030-WA0171](https://user-images.githubusercontent.com/102281729/198884088-b7acb405-a989-476b-9757-c525ecd9a1dc.jpg)
 ___
