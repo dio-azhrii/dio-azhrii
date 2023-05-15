@@ -2,7 +2,7 @@
 
  
 
-<a href="https://diox.biz.id"><img align="center" src="https://github-cardname.caliph.my.id/api?name=DioX&description=Hi%2C%20i'm%20a%20Backend%20Developer%2C%20Nice%20to%20meet%20you&image=https://user-images.githubusercontent.com/102281729/230587561-4d735ca0-1efe-4c83-bafd-e59355d06087.jpeg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@azhriixty&github=dio-azhrii&pattern=ticTacToe&colorPattern=%23eaeaea&site=https://diox.biz.id"/></a>
+<a href="https://diox.biz.id"><img align="center" src="https://github-cardname.caliph.my.id/api?name=DioX&description=Hi%2C%20i'm%20a%20Backend%20Developer%2C%20Nice%20to%20meet%20you&image=https://user-images.githubusercontent.com/102281729/230587561-4d735ca0-1efe-4c83-bafd-e59355d06087.&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@azhriixty&github=dio-azhrii&pattern=ticTacToe&colorPattern=%23eaeaea&site=https://diox.biz.id"/></a>
 ___
 ![null-20221030-WA0171](https://user-images.githubusercontent.com/102281729/198884088-b7acb405-a989-476b-9757-c525ecd9a1dc.jpg)
 ___
